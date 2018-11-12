@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
-  final String title = "Well Being";
+  final title = "Well Being";
   final barColor = const Color(0xff006064);
   final bgColor = const Color(0xffffffff);
 
